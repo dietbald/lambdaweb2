@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca4367376a11191f583c779e8fe3c1ac",
+    "revision": "546027d2fcede5faa6e3e9a9ea8d6cf5",
     "url": "/lambdaweb2/index.html"
   },
   {
-    "revision": "6218438b34ac188c6159",
+    "revision": "45d845856ed3f4623fcb",
     "url": "/lambdaweb2/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lambdaweb2/static/js/2.cdb75663.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6218438b34ac188c6159",
-    "url": "/lambdaweb2/static/js/main.4430a7ce.chunk.js"
+    "revision": "45d845856ed3f4623fcb",
+    "url": "/lambdaweb2/static/js/main.06436377.chunk.js"
   },
   {
     "revision": "6b2f9175f332b1d81b45",
